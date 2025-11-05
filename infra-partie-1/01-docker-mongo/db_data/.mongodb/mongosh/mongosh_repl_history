@@ -1,0 +1,10 @@
+exit
+show collections
+show dbs
+db.users.insertOne({ name: "Alice" })
+db.createCollection("users")
+show collections
+show dbs
+db.users.insertOne({ name: "Alice" })
+db.createCollection("users")
+use myapp

@@ -1,0 +1,5 @@
+# Fichiers IntelliJ
+.idea/
+
+# Fichiers macOS
+.DS_Store
