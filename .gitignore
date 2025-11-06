@@ -3,3 +3,7 @@
 
 # Fichiers macOS
 .DS_Store
+
+.tofu/
+.terraform/
+.crash
